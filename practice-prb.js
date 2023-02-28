@@ -1,4 +1,15 @@
+// 1. optinal chaining
+// student.marks.math.
 
+// must 
+// 2. map filter.find
+
+// 3. (optional): forEach, reduce ( advenced)
+
+// 4. class 
+// 5. (optional) inhertance, supre
+
+// 6.  (must) prototaypical inheritance.
 
 
 
