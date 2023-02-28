@@ -9,7 +9,7 @@ const friendsGroup = friends.map(f => f[0]);
 // console.log(friendsGroup);
 
 const nameLengths = friends.map(friend => friend.length);
-// console.log(nameLengths);
+console.log(nameLengths);
 
 const products = [
     {id: 1, name: 'laptop', price: 55555},

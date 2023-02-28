@@ -1,8 +1,8 @@
 const numbers = [12, 2, 34, 54, 21, 6, 55, 32, 7, 9, 89];
 const bigNums = numbers.filter(num => num > 20);
 const tony = numbers.filter( n => n < 12);
-// console.log(bigNums);
-// console.log(tony);
+console.log(bigNums);
+console.log(tony);
 
 
 

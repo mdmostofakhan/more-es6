@@ -13,4 +13,4 @@ const student = {
 const chemistry = student['marks'] ['physice'];
 const subject = 'mathe';
 const marks2 = student.marks[subject];
-console.log(marks2);
+console.log(chemistry);
