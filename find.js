@@ -1,8 +1,8 @@
 const numbers = [12, 5,  34, 45, 30, 6, 55, 32, 7, 9, 89];
 
 const fives = numbers.find(num => num % 5 === 0);
-const fivesAll = numbers.filter(num => num % 5 === 0);
-console.log(fives);
+const fivesAll = numbers.filter(num => num % 2);
+// console.log(fives);
 console.log(fivesAll);
 
 const products = [
